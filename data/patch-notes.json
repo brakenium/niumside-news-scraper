@@ -1,0 +1,1198 @@
+{
+  "list": [
+    {
+      "name": "[PS2] August 13, 2026 - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-08-12 10:33:00",
+      "start_date_epoch": "1786555980",
+      "locale": "en_US",
+      "pageName": "aug-13-patch-2026",
+      "title": "August 13, 2026 - Patch Notes",
+      "summary": "<p>New crash update! See more inside.</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/329/221.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] July 21, 2026 - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-07-21 17:10:00",
+      "start_date_epoch": "1784679000",
+      "locale": "en_US",
+      "pageName": "july-21-patch-2026",
+      "title": "July 21, 2026 - Patch Notes",
+      "summary": "<p>New crash update! See more inside.</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/341/621.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] July 8, 2026 - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-07-07 16:14:00",
+      "start_date_epoch": "1783466040",
+      "locale": "en_US",
+      "pageName": "july-8-patch-2026",
+      "title": "July 8, 2026 - Patch Notes",
+      "summary": "<p>Summer Alpha Directive, Aerial Anomalies and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/329/221.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] June 18, 2026 - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-06-17 19:08:00",
+      "start_date_epoch": "1781748480",
+      "locale": "en_US",
+      "pageName": "june-18-patch-2026",
+      "title": "June 18, 2026 - Patch Notes",
+      "summary": "<p>We are patching three bugs and have an update about the crash issue</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] June 12, 2026 Hotfix - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-06-12 14:03:00",
+      "start_date_epoch": "1781298180",
+      "locale": "en_US",
+      "pageName": "june-12-hotfix-2026",
+      "title": "June 12, 2026 Hotfix - Patch Notes",
+      "summary": "<p>We have released a client-side patch to address the recent crashes</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] June 11, 2026 Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-06-10 19:43:00",
+      "start_date_epoch": "1781145780",
+      "locale": "en_US",
+      "pageName": "june-11-patch-2026",
+      "title": "June 11, 2026 Patch Notes",
+      "summary": "<p>New Flash Rider Armor Set, melee knives and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/339/681.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] May 28, 2026 Client Update - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-05-28 12:44:00",
+      "start_date_epoch": "1779997440",
+      "locale": "en_US",
+      "pageName": "may-28-clientupdate-2026",
+      "title": "May 28, 2026 Client Update - Patch Notes",
+      "summary": "<p>We have another client update to help address crash issues!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] May 21, 2026 Client Update - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-05-21 13:14:00",
+      "start_date_epoch": "1779394440",
+      "locale": "en_US",
+      "pageName": "may-21-clientupdate-2026",
+      "title": "May 21, 2026 Client Update - Patch Notes",
+      "summary": "<p>We have a client update to help address crash issues!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] May 14, 2026 Hotfix - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-05-13 15:47:00",
+      "start_date_epoch": "1778712420",
+      "locale": "en_US",
+      "pageName": "may-14-hotfix-2026",
+      "title": "May 14, 2026 Hotfix - Patch Notes",
+      "summary": "<p>We are releasing a crash hotfix, learn more inside!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] May 6, 2026 Hotfix - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-05-06 10:00:00",
+      "start_date_epoch": "1778086800",
+      "locale": "en_US",
+      "pageName": "may-6-hotfix-2026",
+      "title": "May 6, 2026 Hotfix - Patch Notes",
+      "summary": "<p>New crash reporting system implementation.</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] May 5, 2026 - 23rd PlanetSide Anniversary Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-05-04 17:33:00",
+      "start_date_epoch": "1777941180",
+      "locale": "en_US",
+      "pageName": "may-5-patch-2026",
+      "title": "May 5, 2026 - 23rd PlanetSide Anniversary Patch Notes",
+      "summary": "<p>Celebrate the 23rd Anniversary of Planetside with a new weapon, Armor Set and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/337/341.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] April 1, 2026 - Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-03-31 17:26:00",
+      "start_date_epoch": "1775003160",
+      "locale": "en_US",
+      "pageName": "april-1-patch-2026",
+      "title": "April 1, 2026 - Patch Notes",
+      "summary": "<p>New Crash and Disconnection messaging, bug fixes, april fools sales and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/329/221.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] March 4, 2026 - St. Patrick's Day Patch",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-03-03 17:45:00",
+      "start_date_epoch": "1772588700",
+      "locale": "en_US",
+      "pageName": "mar-4-patch-2026",
+      "title": "March 4, 2026 - St. Patrick's Day Patch",
+      "summary": "<p>Crash issue fixes, new Winter Ghillie Armor set, bug fixes and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/329/221.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] February 19, 2026 - Valentine's Day Hotfix Patch",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-02-18 15:10:00",
+      "start_date_epoch": "1771456200",
+      "locale": "en_US",
+      "pageName": "feb-19-patch-2026",
+      "title": "February 19, 2026 - Valentine's Day Hotfix Patch",
+      "summary": "<p>Valentine's Day mission fix, stalker cloak fix and crash fix!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] February 12, 2026 - Valentine's Day Patch",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-02-11 17:20:00",
+      "start_date_epoch": "1770859200",
+      "locale": "en_US",
+      "pageName": "feb-12-patch-2026",
+      "title": "February 12, 2026 - Valentine's Day Patch",
+      "summary": "<p>Valentine's Day is around the corner and we have you covered with a new holiday event and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/331/621.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] January 14th 2026 - Patch Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2026-01-13 15:14:00",
+      "start_date_epoch": "1768346040",
+      "locale": "en_US",
+      "pageName": "jan-14-patch-2026",
+      "title": "January 14th - Patch",
+      "summary": "<p>Auraximas event compensation, server and client bug fixes and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/329/221.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] December 16th - Hotfix",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-12-15 13:54:00",
+      "start_date_epoch": "1765835640",
+      "locale": "en_US",
+      "pageName": "dec-16-hotfix-2025",
+      "title": "December 16th - Hotfix",
+      "summary": "<p>Auraximas Mission fixes and client crash fixes</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Dec. 9, 2025 - Auraximas is Here!",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-12-08 17:44:00",
+      "start_date_epoch": "1765244640",
+      "locale": "en_US",
+      "pageName": "dec-9-auraximas-2025",
+      "title": "Dec. 9, 2025 - Auraximas is Here!",
+      "summary": "<p>Auraximas is here! Read up on the latest events and anniversary bundle sales!</p>",
+      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/327/321.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] November 13th - Hotfix",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-11-12 16:56:00",
+      "start_date_epoch": "1762995360",
+      "locale": "en_US",
+      "pageName": "nov-13-hotfix-2025",
+      "title": "November 13th - Hotfix",
+      "summary": "<p>Changes to a decal along with new implant and drone tweaks!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] November 6th - Hotfix",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-11-05 14:56:00",
+      "start_date_epoch": "1762383360",
+      "locale": "en_US",
+      "pageName": "nov-6-patchnotes-2025",
+      "title": "November 6th - Hotfix",
+      "summary": "<p>A bastion passenger seat bug will be fixed with this hotfix</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Nov. 4, 2025 - 13th Year Anniversary (PC Update)",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-11-03 16:30:00",
+      "start_date_epoch": "1762216200",
+      "locale": "en_US",
+      "pageName": "nov-4-anniv-update-2025",
+      "title": "Nov. 4, 2025 - 13th Year Anniversary (PC Update)",
+      "summary": "<p>PlanetSide 2 turns 13 years old this month! Celebrate with us with the new Infiltrator Rework and more!</p>",
+      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/324/141.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Infiltrator Rework – Phase 4 - PTS Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-10-23 09:49:00",
+      "start_date_epoch": "1761238140",
+      "locale": "en_US",
+      "pageName": "oct-23-pts-update-2025",
+      "title": "Infiltrator Rework – Phase 4 - PTS Update",
+      "summary": "<p>The final phase of the Infiltrator Rework is here! Playtest today and get an exclusive player banner!</p>",
+      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/323/443.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Nanite of The Living Dead - Hotfix",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-10-07 15:56:00",
+      "start_date_epoch": "1759877760",
+      "locale": "en_US",
+      "pageName": "oct-8-hotfix-2025",
+      "title": "Nanite of The Living Dead - PC Hotfix",
+      "summary": "<p>Directive event fixes, double xp event and more!</p>",
+      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Oct. 2, 2025 - Nanite of the Living Dead '25 (PC Update)",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-10-01 17:25:00",
+      "start_date_epoch": "1759364700",
+      "locale": "en_US",
+      "pageName": "oct-2-pc-update-2025",
+      "title": "Oct. 2, 2025 - 🎃Nanite of the Living Dead '25 - PC Update🎃",
+      "summary": "<p>Nanite of The Living Dead is back with space pumpkins and returning spooky cosmetics!</p>",
+      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/322/061.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Infiltrator Rework – Phase 3 - PTS Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-09-18 14:50:00",
+      "start_date_epoch": "1758232200",
+      "locale": "en_US",
+      "pageName": "sept-18-pts-update-2025",
+      "title": "Infiltrator Rework – Phase 3 - PTS Update",
+      "summary": "<p>The third phase of the Infiltrator Rework is here! Playtest today and get an exclusive player title!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/320/761.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] September 9th - Hotfix",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-09-08 16:34:00",
+      "start_date_epoch": "1757374440",
+      "locale": "en_US",
+      "pageName": "sept-9-patchnotes-2025",
+      "title": "September 9th - Hotfix",
+      "summary": "<p>Summer Bravo event has been extended and NSO repair drone has been fixed.</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/581.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] NSO Repair Drone Hotfix",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-09-04 10:05:00",
+      "start_date_epoch": "1757005500",
+      "locale": "en_US",
+      "pageName": "sept-4-pc-hotfix-2025",
+      "title": "NSO Repair Drone Hotfix - 9/4/25",
+      "summary": "<p>The NSO Repair drone has been enabled</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/317/621.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] September 3rd Patch Notes",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-09-02 17:28:00",
+      "start_date_epoch": "1756859280",
+      "locale": "en_US",
+      "pageName": "sept-3-patchnotes-2025",
+      "title": "September 3rd Patch Notes",
+      "summary": "<p>Summer Bravo event extension, a new members only item arrives and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/319/161.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Infiltrator Rework Phase 2 - Hotfix",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-08-29 12:05:00",
+      "start_date_epoch": "1756494300",
+      "locale": "en_US",
+      "pageName": "aug-29-pts-hotfix-2025",
+      "title": "August 29, 2025 - Infiltrator Rework Phase 2 - Hotfix",
+      "summary": "<p>New adjustments have been added to the playtest build, and we have a new survey!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/318/881.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Infiltrator Rework – Phase 2 - PTS Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-08-27 15:30:00",
+      "start_date_epoch": "1756333800",
+      "locale": "en_US",
+      "pageName": "aug-27-pts-update-2025",
+      "title": "August 27, 2025 - Infiltrator Rework - Phase 2",
+      "summary": "<p>The next phase for the infiltrator rework is here, now with requested changes!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/318/801.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] August 19, 2025 - Summer Bravo Hotfix",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-08-13 11:24:00",
+      "start_date_epoch": "1755109440",
+      "locale": "en_US",
+      "pageName": "aug-19-hotfix-2025",
+      "title": "August 19, 2025 - Summer Bravo Hotfix",
+      "summary": "<p>Summer Bravo has been extended! Double XP is now live! Learn more about it here!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/317/621.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 50,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 50
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] August 6, 2025 - Summer Bravo Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-08-05 15:35:00",
+      "start_date_epoch": "1754433300",
+      "locale": "en_US",
+      "pageName": "aug-6-patch-notes-2025",
+      "title": "August 6, 2025 - Summer Bravo Update",
+      "summary": "<p>Summer Bravo is here with more summer events, cosmetics and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/317/061.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 62,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 62
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] July 30, 2025 - Infiltrator Rework PTS Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-07-30 18:03:00",
+      "start_date_epoch": "1753923780",
+      "locale": "en_US",
+      "pageName": "july-30-pts-notes-2025",
+      "title": "July 30, 2025 - Infiltrator Rework PTS Update",
+      "summary": "<p>The Infiltrator has been reworked! Playtest the new additions and changes to the class!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/316/701.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] July 8, 2025 - Summer Event Directive - PC Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-07-07 17:45:00",
+      "start_date_epoch": "1751935500",
+      "locale": "en_US",
+      "pageName": "july-8-update-notes-2025",
+      "title": "July 8, 2025 - Summer Event Directive - PC Update",
+      "summary": "<p>A new summer event is here with new summer cosmetics and returning summer items!</p>",
+      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/315/521.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] July 2, 2025 - Summer Sales - PC Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-07-02 10:00:00",
+      "start_date_epoch": "1751475600",
+      "locale": "en_US",
+      "pageName": "july-2-update-notes-2025",
+      "title": "July 2, 2025 - Summer Sales - PC Update",
+      "summary": "<p>Summer sales are here, read up on what's back in the depot!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/315/221.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 21,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 21
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] June 18, 2025 - PTS Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-06-18 16:38:00",
+      "start_date_epoch": "1750289880",
+      "locale": "en_US",
+      "pageName": "june-18-update-notes-2025",
+      "title": "June 18, 2025 - PTS Update",
+      "summary": "<p>Test our latest implants: Deadman Trigger and Bull Market! New animated camo added!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/313/901.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] June 10, 2025 - PC Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-06-09 17:44:00",
+      "start_date_epoch": "1749516240",
+      "locale": "en_US",
+      "pageName": "june-10-update-notes-2025",
+      "title": "June 10, 2025 - PC Update",
+      "summary": "<p>40% off all Infantry Weapons sale, Double XP for all and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/312/921.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 1,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 1
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] May 14, 2025 - PC Update",
+      "subtypeArray": [
+        "ps2"
+      ],
+      "start_date": "2025-05-13 15:17:00",
+      "start_date_epoch": "1747174620",
+      "locale": "en_US",
+      "pageName": "may-14-pc-update-2025",
+      "title": "May 14, 2025 - PC Update",
+      "summary": "<p>Double XP arrives for everyone along with a new dog tag scavenger event and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/279/741.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] April 24, 2025 - PC Hotfix",
+      "subtypeArray": [
+        "ps2"
+      ],
+      "start_date": "2025-04-23 15:26:00",
+      "start_date_epoch": "1745447160",
+      "locale": "en_US",
+      "pageName": "april-24-pc-hotfix-2025",
+      "title": "April 24, 2025 - PC Hotfix",
+      "summary": "<p>Fishing directive bug fixes and other misc. fixes are on the way!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/277/541.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] April 1, 2025 - Fishing Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-03-31 17:46:00",
+      "start_date_epoch": "1743468360",
+      "locale": "en_US",
+      "pageName": "april-1-update-notes-2025",
+      "title": "April 1, 2025 - Fishing Update",
+      "summary": "<p>Fishing Gameplay has arrived to PlanetSide 2, read up about it here!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/309/001.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] March 18, 2025 - PC Hotfix",
+      "subtypeArray": [
+        "ps2"
+      ],
+      "start_date": "2025-03-17 16:26:00",
+      "start_date_epoch": "1742253960",
+      "locale": "en_US",
+      "pageName": "mar-18-pc-hotfix-2025",
+      "title": "March 18, 2025 - PC Hotfix",
+      "summary": "<p>Construction and other misc. fixes.</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/277/541.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 14,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 14
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] March 5, 2025 - Assault Mode Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-03-04 17:36:00",
+      "start_date_epoch": "1741138560",
+      "locale": "en_US",
+      "pageName": "mar-5-update-notes-2025",
+      "title": "March 5, 2025 - Assault Mode Update",
+      "summary": "<p>The New Assault mode and Untapped <span data-teams=\"true\">Reservoir </span>facility has arrived!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/307/321.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 83,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 83
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Feb 26, 2025 - PTS Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-02-25 17:51:00",
+      "start_date_epoch": "1740534660",
+      "locale": "en_US",
+      "pageName": "feb-26-pts-notes-2025",
+      "title": "Feb 26, 2025 - PTS Update",
+      "summary": "<p>Assault Facility with Fishing additions and fixes.</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/289/081.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] February 20, 2025 - PC Hotfix",
+      "subtypeArray": [
+        "ps2"
+      ],
+      "start_date": "2025-02-19 14:45:00",
+      "start_date_epoch": "1740005100",
+      "locale": "en_US",
+      "pageName": "feb-20-pc-hotfix-2025",
+      "title": "February 20, 2025 - PC Hotfix",
+      "summary": "<p>Valentines Day event fixes, memory leak fixes and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/277/541.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Feb. 13, 2025 - Valentines Day Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-02-12 14:28:00",
+      "start_date_epoch": "1739399280",
+      "locale": "en_US",
+      "pageName": "feb-13-pts-notes-2025",
+      "title": "Feb. 13, 2025 - Valentines Day Update",
+      "summary": "<p>New Valentines Day bundle, new holiday cosmetics and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/306/121.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Jan. 31, 2025 - PTS Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2025-01-31 14:46:00",
+      "start_date_epoch": "1738363560",
+      "locale": "en_US",
+      "pageName": "jan-31-pts-notes-2025",
+      "title": "Jan. 31, 2025 - PTS Update",
+      "summary": "<p>New adjustments to Assault Mode and Fishing, come test them out!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/305/501.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 1,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 1
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] January 15, 2024 - PC Update",
+      "subtypeArray": [
+        "ps2"
+      ],
+      "start_date": "2025-01-14 16:14:00",
+      "start_date_epoch": "1736900040",
+      "locale": "en_US",
+      "pageName": "jan-15-pc-update-2025",
+      "title": "January 15, 2024 - PC Update",
+      "summary": "<p>Lunar New Year Bundles return along with new Lunar Serpent cosmetics!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/279/741.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 94,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 94
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Dec. 20, 2024 - PTS Update",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2024-12-20 10:21:00",
+      "start_date_epoch": "1734718860",
+      "locale": "en_US",
+      "pageName": "dec-20-pts-notes-2024",
+      "title": "Dec. 20, 2024 - PTS Update",
+      "summary": "<p>Playtest the latest Game Mode: Assault!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/303/861.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] December 18, 2024 - PC Hotfix",
+      "subtypeArray": [
+        "ps2"
+      ],
+      "start_date": "2024-12-17 17:37:00",
+      "start_date_epoch": "1734485820",
+      "locale": "en_US",
+      "pageName": "dec-18-pc-hotfix-2024",
+      "title": "December 18, 2024 - PC Hotfix",
+      "summary": "<p>Crash fixes and stability updates.</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/277/541.jpg?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    },
+    {
+      "name": "[PS2] Dec. 4, 2024 - Auraximas is Here! (PC Update)",
+      "subtypeArray": [
+        "lp4-news",
+        "ps2"
+      ],
+      "start_date": "2024-12-03 17:17:00",
+      "start_date_epoch": "1733275020",
+      "locale": "en_US",
+      "pageName": "auraximas-2024",
+      "title": "Dec. 4, 2024 - Auraximas is Here! (PC Update)",
+      "summary": "<p>Auraximas 2024 arrives to PlanetSide 2! See the latest news on events, new items and more!</p>",
+      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/256/941.png?v=1.0",
+      "shareCounts": {
+        "Reddit": null,
+        "Facebook": {
+          "total_count": 0,
+          "og_object": null,
+          "comment_count": 0,
+          "share_count": 0
+        },
+        "Pinterest": 0
+      }
+    }
+  ]
+}
