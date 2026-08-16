@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+    paths:
+      - .github/workflows/deploy.yml
+      - img/
+      - data/
   workflow_dispatch:
 
 permissions:
