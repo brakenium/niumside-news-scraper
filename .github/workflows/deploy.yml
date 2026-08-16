@@ -6,8 +6,8 @@ on:
       - main
     paths:
       - .github/workflows/deploy.yml
-      - img/
-      - data/
+      - img/**
+      - data/**
   workflow_dispatch:
 
 permissions:
