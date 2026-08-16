@@ -1,4 +1,4 @@
-name: Scrape PlanetSide 2
+name: Scrape PlanetSide 2 news and patch notes
 
 on:
   schedule:
@@ -79,5 +79,5 @@ jobs:
           path: _site
 
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
