@@ -1,9 +1,9 @@
-# PlanetSide 2 Archive
+# PlanetSide 2 news and patch notes archive
 
 An automated archive of the PlanetSide 2 news and patch-note feeds.
 
 The project retrieves the feed data embedded in the PlanetSide 2 patch-notes
-page and preserves it as JSON.
+page and preserves it as JSON. Previously one was able to use the forum RSS feed, but they discontinued the forum and no longer update the RSS. This repo extracts news and patch notes from the website and converts the website's `SOE.Feeds.news.data` and `SOE.Feeds.patchNotes.data` into JSON stored in this repo
 
 ## Data
 
@@ -48,3 +48,4 @@ The GitHub Pages site exposes the same data:
 └── archive/
     ├── news.json
     └── patch-notes.json
+```
