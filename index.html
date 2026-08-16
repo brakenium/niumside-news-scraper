@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlanetSide 2 Archive</title>
+</head>
+<body>
+    <h1>PlanetSide 2 Archive</h1>
+
+    <p>
+        This site archives the news and patch-note feeds published by
+        PlanetSide 2.
+    </p>
+
+    <h2>Current feeds</h2>
+
+    <ul>
+        <li>
+            <a href="news.json">News</a>
+        </li>
+        <li>
+            <a href="patch-notes.json">Patch Notes</a>
+        </li>
+    </ul>
+
+    <h2>Archives</h2>
+
+    <ul>
+        <li>
+            <a href="archive/news.json">News Archive</a>
+        </li>
+        <li>
+            <a href="archive/patch-notes.json">Patch Notes Archive</a>
+        </li>
+    </ul>
+
+    <h2>How it works</h2>
+
+    <p>
+        A GitHub Actions workflow retrieves the PlanetSide 2 patch-notes
+        page every 15 minutes and extracts the news and patch-note feed
+        objects embedded in the page.
+    </p>
+
+    <p>
+        The current feed files contain the entries currently exposed by
+        PlanetSide 2. The archive files accumulate every previously
+        discovered entry, so entries remain available after they disappear
+        from the current feed.
+    </p>
+
+    <p>
+        The archived entries preserve the JSON objects returned by
+        PlanetSide 2 without reducing them to a custom schema.
+    </p>
+
+    <p>
+        Source:
+        <a href="https://www.planetside2.com/home/patch-notes">
+            PlanetSide 2 Patch Notes
+        </a>
+    </p>
+</body>
+</html>
