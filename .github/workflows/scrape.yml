@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -16,6 +19,7 @@ concurrency:
 
 jobs:
   scrape:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
 
     steps:
@@ -55,6 +59,14 @@ jobs:
           git add data/
           git commit -m "Update PlanetSide 2 archive"
           git push
+
+  deploy:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Prepare GitHub Pages
         run: |
