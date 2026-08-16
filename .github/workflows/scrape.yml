@@ -5,21 +5,16 @@ on:
     - cron: "*/15 * * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    paths:
+      - .github/workflows/scrape.yml
+      - scraper.py
+      - requirements.txt
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
 
 jobs:
   scrape:
-    if: github.event_name != 'push'
     runs-on: ubuntu-latest
 
     steps:
@@ -59,37 +54,4 @@ jobs:
           git add data/
           git commit -m "Update PlanetSide 2 archive"
           git push
-
-  deploy:
-    if: github.event_name == 'push'
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Prepare GitHub Pages
-        run: |
-          mkdir -p _site
-
-          cp index.html _site/index.html
-
-          cp data/news.json _site/news.json
-          cp data/patch-notes.json _site/patch-notes.json
-
-          mkdir -p _site/archive
-
-          cp data/archive/news.json _site/archive/news.json
-          cp data/archive/patch-notes.json _site/archive/patch-notes.json
-
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v5
 
