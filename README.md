@@ -1,5 +1,7 @@
 # PlanetSide 2 news and patch notes archive
 
+WARNING: This project has been vibe coded. I did read some of the code and didn't just accept the first thing that worked, but this is not important enough for me to handwrite completely. I do intend to maintain this however.
+
 An automated archive of the PlanetSide 2 news and patch-note feeds.
 
 The project retrieves the feed data embedded in the PlanetSide 2 patch-notes
