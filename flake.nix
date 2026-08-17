@@ -23,14 +23,19 @@
           };
 
           python = pkgs.python3.withPackages (ps: [
-            ps.requests
-            ps.lxml
+            ps.playwright
           ]);
         in {
           default = pkgs.mkShell {
             packages = [
               python
+              pkgs.chromium
             ];
+
+            env = {
+              PLAYWRIGHT_CHROMIUM =
+                "${pkgs.chromium}/bin/chromium";
+            };
           };
         });
     };

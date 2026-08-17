@@ -33,6 +33,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
 
       - name: Scrape PlanetSide 2
         run: python scraper.py
@@ -43,6 +44,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add data/
-          git commit -m "Update PlanetSide 2 archive"
+
+          git diff --cached --quiet || git commit -m "Update PlanetSide 2 archive"
           git push
 

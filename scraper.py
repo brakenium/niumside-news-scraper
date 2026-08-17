@@ -1,10 +1,13 @@
+#!/usr/bin/env python3
+
 import json
 import logging
-import re
+import sys
+import os
 from pathlib import Path
+from typing import Any
 
-import requests
-from lxml import html
+from playwright.sync_api import sync_playwright
 
 
 URL = "https://www.planetside2.com/home/patch-notes"
@@ -18,7 +21,6 @@ PATCH_NOTES_FILE = DATA_DIR / "patch-notes.json"
 NEWS_ARCHIVE_FILE = ARCHIVE_DIR / "news.json"
 PATCH_NOTES_ARCHIVE_FILE = ARCHIVE_DIR / "patch-notes.json"
 
-USER_AGENT = "PlanetSide2Archive/1.0"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -28,245 +30,273 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def fetch_page() -> str:
-    logger.info("Fetching %s", URL)
+def extract_feed(
+    page,
+    feed_name: str,
+) -> dict[str, Any]:
+    """
+    Return SOE.Feeds.<feed> after the website has executed its
+    JavaScript.
 
-    response = requests.get(
-        URL,
-        headers={"User-Agent": USER_AGENT},
-        timeout=30,
-    )
-    response.raise_for_status()
-
-    logger.info("Fetched %.1f KiB", len(response.content) / 1024)
-
-    return response.text
-
-
-def extract_json_object(text: str, start: int) -> str:
-    """Extract a JSON object beginning at `start`.
-
-    Handles nested objects and braces occurring inside JSON strings.
+    JSON.stringify intentionally removes JavaScript functions and
+    other values that JSON cannot represent.
     """
 
-    if start >= len(text) or text[start] != "{":
-        raise ValueError("Expected '{' at start of JSON object")
+    feed = page.evaluate(
+        """
+        (feedName) => {
+            const feed = window.SOE?.Feeds?.[feedName];
 
-    depth = 0
-    in_string = False
-    escaped = False
+            if (!feed) {
+                throw new Error(
+                    `SOE.Feeds.${feedName} does not exist`
+                );
+            }
 
-    for index in range(start, len(text)):
-        character = text[index]
+            return JSON.parse(JSON.stringify(feed));
+        }
+        """,
+        feed_name,
+    )
 
-        if in_string:
-            if escaped:
-                escaped = False
-            elif character == "\\":
-                escaped = True
-            elif character == '"':
-                in_string = False
-
-            continue
-
-        if character == '"':
-            in_string = True
-        elif character == "{":
-            depth += 1
-        elif character == "}":
-            depth -= 1
-
-            if depth == 0:
-                return text[start : index + 1]
-
-    raise ValueError("JSON object was not terminated")
-
-
-def extract_feed(page: str, feed_name: str) -> dict:
-    tree = html.fromstring(page)
-
-    assignment = f"SOE.Feeds.{feed_name}.data"
-
-    logger.info("Looking for %s", assignment)
-
-    for script in tree.xpath("//script"):
-        text = script.text or ""
-
-        assignment_start = text.find(assignment)
-
-        if assignment_start == -1:
-            continue
-
-        equals_position = text.find("=", assignment_start + len(assignment))
-
-        if equals_position == -1:
-            raise RuntimeError(
-                f"Found {assignment}, but no assignment operator was found"
-            )
-
-        json_start = equals_position + 1
-
-        while json_start < len(text) and text[json_start].isspace():
-            json_start += 1
-
-        if json_start >= len(text) or text[json_start] != "{":
-            raise RuntimeError(
-                f"Found {assignment}, but its value does not start with '{{'"
-            )
-
-        try:
-            json_text = extract_json_object(text, json_start)
-            data = json.loads(json_text)
-        except (ValueError, json.JSONDecodeError) as error:
-            raise RuntimeError(
-                f"Could not parse {assignment}"
-            ) from error
-
-        if not isinstance(data, dict):
-            raise RuntimeError(
-                f"{assignment} is not a JSON object"
-            )
-
-        entries = data.get("list")
-
-        if not isinstance(entries, list):
-            raise RuntimeError(
-                f"{assignment} does not contain a 'list' array"
-            )
-
-        if not entries:
-            raise RuntimeError(
-                f"{assignment} contains no entries"
-            )
-
-        logger.info(
-            "Found %s with %d entries",
-            assignment,
-            len(entries),
+    if not isinstance(feed, dict):
+        raise RuntimeError(
+            f"SOE.Feeds.{feed_name} is not an object"
         )
 
-        return data
+    logger.info(
+        "%s properties: %s",
+        feed_name,
+        ", ".join(feed.keys()),
+    )
 
-    raise RuntimeError(
-        f"Could not find {assignment} in the page"
+    return feed
+
+
+def entry_key(
+    entry: dict[str, Any],
+) -> str:
+    page_name = entry.get("pageName")
+
+    if page_name:
+        return f"pageName:{page_name}"
+
+    name = entry.get("name")
+
+    if name:
+        return f"name:{name}"
+
+    return json.dumps(
+        entry,
+        sort_keys=True,
+        ensure_ascii=False,
     )
 
 
-def read_json(path: Path) -> dict:
-    if not path.exists():
-        return {"list": []}
+def update_archive(
+    current: dict[str, Any],
+    path: Path,
+) -> dict[str, Any]:
+    """
+    Add new entries from current.data.list to the archive.
 
-    try:
-        with path.open("r", encoding="utf-8") as file:
-            data = json.load(file)
-    except json.JSONDecodeError as error:
-        raise RuntimeError(
-            f"Could not parse existing JSON file: {path}"
-        ) from error
+    All other properties from the current feed are kept up to date.
+    """
 
-    if not isinstance(data, dict) or not isinstance(data.get("list"), list):
-        raise RuntimeError(
-            f"Invalid archive format in {path}"
+    if path.exists():
+        archive = json.loads(
+            path.read_text(
+                encoding="utf-8",
+            )
+        )
+    else:
+        archive = json.loads(
+            json.dumps(current)
         )
 
-    return data
-
-
-def write_json(path: Path, data: dict) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-
-    with path.open("w", encoding="utf-8") as file:
-        json.dump(
-            data,
-            file,
-            indent=2,
-            ensure_ascii=False,
+        archive.setdefault(
+            "data",
+            {},
         )
-        file.write("\n")
 
+        archive["data"]["list"] = []
 
-def archive_feed(current: dict, archive_path: Path) -> dict:
-    archive = read_json(archive_path)
+    current_data = current.get("data")
 
-    archived_entries = archive["list"]
-    current_entries = current["list"]
+    if not isinstance(current_data, dict):
+        return current
 
-    existing_page_names = {
-        entry.get("pageName")
+    current_entries = current_data.get("list")
+
+    if not isinstance(current_entries, list):
+        return current
+
+    archive_data = archive.setdefault(
+        "data",
+        {},
+    )
+
+    archived_entries = archive_data.setdefault(
+        "list",
+        [],
+    )
+
+    existing_keys = {
+        entry_key(entry)
         for entry in archived_entries
-        if isinstance(entry, dict) and entry.get("pageName")
+        if isinstance(entry, dict)
     }
 
-    new_entries = []
+    added = 0
 
     for entry in current_entries:
         if not isinstance(entry, dict):
-            raise RuntimeError(
-                f"Encountered a non-object entry in {archive_path}"
-            )
+            continue
 
-        page_name = entry.get("pageName")
+        key = entry_key(entry)
 
-        if not page_name:
-            raise RuntimeError(
-                f"Encountered an entry without pageName in {archive_path}"
-            )
+        if key in existing_keys:
+            continue
 
-        if page_name not in existing_page_names:
-            archived_entries.append(entry)
-            existing_page_names.add(page_name)
-            new_entries.append(entry)
+        archived_entries.append(entry)
+        existing_keys.add(key)
+        added += 1
+
+    # Keep everything except the cumulative data.list current.
+    for key, value in current.items():
+        if key != "data":
+            archive[key] = value
+
+    for key, value in current_data.items():
+        if key != "list":
+            archive_data[key] = value
 
     logger.info(
-        "%s: found %d new entries",
-        archive_path,
-        len(new_entries),
-    )
-
-    # Keep the archive ordered newest-first where possible.
-    archived_entries.sort(
-        key=lambda entry: entry.get("start_date_epoch", ""),
-        reverse=True,
+        "%s: added %d entries, %d total",
+        path,
+        added,
+        len(archived_entries),
     )
 
     return archive
 
 
-def main() -> None:
-    page = fetch_page()
-
-    news = extract_feed(page, "news")
-    patch_notes = extract_feed(page, "updateNotes")
-
-    news_archive = archive_feed(news, NEWS_ARCHIVE_FILE)
-    patch_notes_archive = archive_feed(
-        patch_notes,
-        PATCH_NOTES_ARCHIVE_FILE,
+def write_json(
+    path: Path,
+    value: dict[str, Any],
+) -> None:
+    path.parent.mkdir(
+        parents=True,
+        exist_ok=True,
     )
 
-    write_json(NEWS_FILE, news)
-    write_json(PATCH_NOTES_FILE, patch_notes)
-
-    write_json(NEWS_ARCHIVE_FILE, news_archive)
-    write_json(PATCH_NOTES_ARCHIVE_FILE, patch_notes_archive)
-
-    logger.info(
-        "News archive contains %d entries",
-        len(news_archive["list"]),
+    temporary_path = path.with_suffix(
+        path.suffix + ".tmp"
     )
 
-    logger.info(
-        "Patch-note archive contains %d entries",
-        len(patch_notes_archive["list"]),
+    temporary_path.write_text(
+        json.dumps(
+            value,
+            indent=2,
+            ensure_ascii=False,
+        ) + "\n",
+        encoding="utf-8",
     )
 
-    logger.info("Scrape completed successfully")
+    temporary_path.replace(path)
+
+
+def main() -> int:
+    try:
+        with sync_playwright() as playwright:
+            logger.info("Launching Chromium")
+
+            browser = playwright.chromium.launch(
+                headless=True,
+                executable_path=os.environ["PLAYWRIGHT_CHROMIUM"],
+            )
+
+            try:
+                page = browser.new_page()
+
+                logger.info(
+                    "Loading %s",
+                    URL,
+                )
+
+                page.goto(
+                    URL,
+                    wait_until="networkidle",
+                    timeout=60_000,
+                )
+
+                # Wait until the site's JavaScript has created
+                # the feed objects.
+                page.wait_for_function(
+                    """
+                    () =>
+                        window.SOE?.Feeds?.news &&
+                        window.SOE?.Feeds?.updateNotes
+                    """,
+                    timeout=60_000,
+                )
+
+                news = extract_feed(
+                    page,
+                    "news",
+                )
+
+                patch_notes = extract_feed(
+                    page,
+                    "updateNotes",
+                )
+
+            finally:
+                browser.close()
+
+        write_json(
+            NEWS_FILE,
+            news,
+        )
+
+        write_json(
+            PATCH_NOTES_FILE,
+            patch_notes,
+        )
+
+        news_archive = update_archive(
+            news,
+            NEWS_ARCHIVE_FILE,
+        )
+
+        patch_notes_archive = update_archive(
+            patch_notes,
+            PATCH_NOTES_ARCHIVE_FILE,
+        )
+
+        write_json(
+            NEWS_ARCHIVE_FILE,
+            news_archive,
+        )
+
+        write_json(
+            PATCH_NOTES_ARCHIVE_FILE,
+            patch_notes_archive,
+        )
+
+        logger.info(
+            "Scraping completed successfully"
+        )
+
+        return 0
+
+    except Exception as error:
+        logger.error(
+            "%s",
+            error,
+        )
+        return 1
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception:
-        logger.exception("Scrape failed")
-        raise
-
+    sys.exit(main())

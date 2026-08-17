@@ -1,1303 +1,1969 @@
 {
-  "list": [
-    {
-      "name": "[PS2] PlanetSide 2 Community Discord Server!",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2026-04-03 12:09:00",
-      "start_date_epoch": "1775243340",
-      "locale": "en_US",
-      "pageName": "ps2-discord-opening-2026",
-      "title": "PlanetSide 2 Official Discord Server!",
-      "summary": "<p>We have moved to Discord! Join us!</p>",
-      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/335/361.png?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+  "options": {
+    "filterType": "news",
+    "columnSizes": [
+      6,
+      4
+    ],
+    "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+    "type": "news",
+    "column": "alpha"
+  },
+  "data": {
+    "list": [
+      {
+        "name": "[PS2] PlanetSide 2 Community Discord Server!",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2026-04-03 12:09:00",
+        "start_date_epoch": "1775243340",
+        "locale": "en_US",
+        "pageName": "ps2-discord-opening-2026",
+        "title": "PlanetSide 2 Official Discord Server!",
+        "summary": "We have moved to Discord! Join us!",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/335/361.png?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] PlanetSide 2 moves to Discord!",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2026-03-06 13:06:00",
-      "start_date_epoch": "1772831160",
-      "locale": "en_US",
-      "pageName": "ps2-on-discord-2026",
-      "title": "PlanetSide 2 moves to Discord!",
-      "summary": "<p>Learn about the community move to Discord!</p>",
-      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/333/421.png?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2026-04-03T19:09:00.000Z",
+        "isExternal": false,
+        "link": "/news/ps2-discord-opening-2026",
+        "shareUrl": "https://www.planetside2.com/news/ps2-discord-opening-2026",
+        "shareType": "feed_news_item",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] PlanetSide 2 moves to Discord!",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2026-03-06 13:06:00",
+        "start_date_epoch": "1772831160",
+        "locale": "en_US",
+        "pageName": "ps2-on-discord-2026",
+        "title": "PlanetSide 2 moves to Discord!",
+        "summary": "Learn about the community move to Discord!",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/333/421.png?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] PlanetSide 2 13th Anniversary Events!",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2025-11-20 11:21:00",
-      "start_date_epoch": "1763666460",
-      "locale": "en_US",
-      "pageName": "ps2-13-anniv-2025",
-      "title": "PlanetSide 2 13th Anniversary Events!",
-      "summary": "<p>Celebrate the 13th Anniversary with fun community events!</p>",
-      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/326/041.png?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2026-03-06T21:06:00.000Z",
+        "isExternal": false,
+        "link": "/news/ps2-on-discord-2026",
+        "shareUrl": "https://www.planetside2.com/news/ps2-on-discord-2026",
+        "shareType": "feed_news_item",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] PlanetSide 2 13th Anniversary Events!",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2025-11-20 11:21:00",
+        "start_date_epoch": "1763666460",
+        "locale": "en_US",
+        "pageName": "ps2-13-anniv-2025",
+        "title": "PlanetSide 2 13th Anniversary Events!",
+        "summary": "Celebrate the 13th Anniversary with fun community events!",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/326/041.png?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Extra Life fundraising event, 2025",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2025-11-10 14:35:00",
-      "start_date_epoch": "1762814100",
-      "locale": "en_US",
-      "pageName": "ps2-extra-life-2025",
-      "title": "PlanetSide 2 Extra Life fundraising event, 2025!",
-      "summary": "<p>Auraxians unite for Extra Life!</p>",
-      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/325/041.jpg?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2025-11-20T19:21:00.000Z",
+        "isExternal": false,
+        "link": "/news/ps2-13-anniv-2025",
+        "shareUrl": "https://www.planetside2.com/news/ps2-13-anniv-2025",
+        "shareType": "feed_news_item",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Extra Life fundraising event, 2025",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2025-11-10 14:35:00",
+        "start_date_epoch": "1762814100",
+        "locale": "en_US",
+        "pageName": "ps2-extra-life-2025",
+        "title": "PlanetSide 2 Extra Life fundraising event, 2025!",
+        "summary": "Auraxians unite for Extra Life!",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/325/041.jpg?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Infiltrator Rework Update - July Dev Letter",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2025-07-30 18:49:00",
-      "start_date_epoch": "1753926540",
-      "locale": "en_US",
-      "pageName": "july-dev-letter-2025",
-      "title": "Infiltrator Rework Update - July Dev Letter",
-      "summary": "<p>The Infiltrator Rework is here, check playtest details and give us your feedback!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/316/881.png?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2025-11-10T22:35:00.000Z",
+        "isExternal": false,
+        "link": "/news/ps2-extra-life-2025",
+        "shareUrl": "https://www.planetside2.com/news/ps2-extra-life-2025",
+        "shareType": "feed_news_item",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Infiltrator Rework Update - July Dev Letter",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2025-07-30 18:49:00",
+        "start_date_epoch": "1753926540",
+        "locale": "en_US",
+        "pageName": "july-dev-letter-2025",
+        "title": "Infiltrator Rework Update - July Dev Letter",
+        "summary": "The Infiltrator Rework is here, check playtest details and give us your feedback!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/316/881.png?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Server Merge Retrospective and the Road Ahead - May Dev Letter",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2025-05-16 09:46:00",
-      "start_date_epoch": "1747413960",
-      "locale": "en_US",
-      "pageName": "may-dev-letter-2025",
-      "title": "Server Merge Retrospective and the Road Ahead",
-      "summary": "<p>Infiltrator Rework, Server Merge Follow Up and more!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/311/301.jpg?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 8,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 8
+        "className": "news",
+        "timestamp": "2025-07-31T01:49:00.000Z",
+        "isExternal": false,
+        "link": "/news/july-dev-letter-2025",
+        "shareUrl": "https://www.planetside2.com/news/july-dev-letter-2025",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/316/881.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Server Merge Retrospective and the Road Ahead - May Dev Letter",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2025-05-16 09:46:00",
+        "start_date_epoch": "1747413960",
+        "locale": "en_US",
+        "pageName": "may-dev-letter-2025",
+        "title": "Server Merge Retrospective and the Road Ahead",
+        "summary": "Infiltrator Rework, Server Merge Follow Up and more!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/311/301.jpg?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 8,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 8
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] The Grand Server Merge Event II",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2025-05-01 17:29:00",
-      "start_date_epoch": "1746145740",
-      "locale": "en_US",
-      "pageName": "may-server-event-2025",
-      "title": "The Grand Server Merge Event II",
-      "summary": "<p>Celebrate the NA and EU server merges with us tonight through Sunday!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/310/601.jpg?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 2,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 2
+        "className": "news",
+        "timestamp": "2025-05-16T16:46:00.000Z",
+        "isExternal": false,
+        "link": "/news/may-dev-letter-2025",
+        "shareUrl": "https://www.planetside2.com/news/may-dev-letter-2025",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/311/301.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] The Grand Server Merge Event II",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2025-05-01 17:29:00",
+        "start_date_epoch": "1746145740",
+        "locale": "en_US",
+        "pageName": "may-server-event-2025",
+        "title": "The Grand Server Merge Event II",
+        "summary": "Celebrate the NA and EU server merges with us tonight through Sunday!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/310/601.jpg?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 2,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 2
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Improving the US Server Experience",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2025-04-16 11:10:00",
-      "start_date_epoch": "1744827000",
-      "locale": "en_US",
-      "pageName": "us-serverlatency-update-2025",
-      "title": "Improving the US Server Experience",
-      "summary": "<p>Learn more about the current status of server latency on the NA server.</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/309/741.jpg?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 1,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 1
+        "className": "news",
+        "timestamp": "2025-05-02T00:29:00.000Z",
+        "isExternal": false,
+        "link": "/news/may-server-event-2025",
+        "shareUrl": "https://www.planetside2.com/news/may-server-event-2025",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/310/601.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Improving the US Server Experience",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2025-04-16 11:10:00",
+        "start_date_epoch": "1744827000",
+        "locale": "en_US",
+        "pageName": "us-serverlatency-update-2025",
+        "title": "Improving the US Server Experience",
+        "summary": "Learn more about the current status of server latency on the NA server.",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/309/741.jpg?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 1,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 1
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Fishing Update - April Dev Letter",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2025-04-01 12:00:00",
-      "start_date_epoch": "1743534000",
-      "locale": "en_US",
-      "pageName": "april-fishing-update-2025",
-      "title": "Fishing Update - April Dev Letter",
-      "summary": "<p>Learn more about the new fishing gameplay and a teaser for a new mode!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/309/161.jpg?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2025-04-16T18:10:00.000Z",
+        "isExternal": false,
+        "link": "/news/us-serverlatency-update-2025",
+        "shareUrl": "https://www.planetside2.com/news/us-serverlatency-update-2025",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/309/741.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Fishing Update - April Dev Letter",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2025-04-01 12:00:00",
+        "start_date_epoch": "1743534000",
+        "locale": "en_US",
+        "pageName": "april-fishing-update-2025",
+        "title": "Fishing Update - April Dev Letter",
+        "summary": "Learn more about the new fishing gameplay and a teaser for a new mode!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/309/161.jpg?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] The Grand Server Merge Event",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2025-03-18 10:02:00",
-      "start_date_epoch": "1742317320",
-      "locale": "en_US",
-      "pageName": "march-server-event-2025",
-      "title": "The Grand Server Merge Event",
-      "summary": "<p>Join us on a two part series of events to celebrate the new NA server merge!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/308/281.jpg?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 2,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 2
+        "className": "news",
+        "timestamp": "2025-04-01T19:00:00.000Z",
+        "isExternal": false,
+        "link": "/news/april-fishing-update-2025",
+        "shareUrl": "https://www.planetside2.com/news/april-fishing-update-2025",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/309/161.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] The Grand Server Merge Event",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2025-03-18 10:02:00",
+        "start_date_epoch": "1742317320",
+        "locale": "en_US",
+        "pageName": "march-server-event-2025",
+        "title": "The Grand Server Merge Event",
+        "summary": "Join us on a two part series of events to celebrate the new NA server merge!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/308/281.jpg?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 2,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 2
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] The Legion of the Crows - Feb. Dev Letter",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2025-02-24 11:18:00",
-      "start_date_epoch": "1740424680",
-      "locale": "en_US",
-      "pageName": "feb-dev-letter-2025",
-      "title": "The Legion of the Crows - Feb. Dev Letter",
-      "summary": "<p>Check out our latest armor set with news updates for server merge and infiltrator rework!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/306/801.jpg?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 17,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 17
+        "className": "news",
+        "timestamp": "2025-03-18T17:02:00.000Z",
+        "isExternal": false,
+        "link": "/news/march-server-event-2025",
+        "shareUrl": "https://www.planetside2.com/news/march-server-event-2025",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/308/281.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] The Legion of the Crows - Feb. Dev Letter",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2025-02-24 11:18:00",
+        "start_date_epoch": "1740424680",
+        "locale": "en_US",
+        "pageName": "feb-dev-letter-2025",
+        "title": "The Legion of the Crows - Feb. Dev Letter",
+        "summary": "Check out our latest armor set with news updates for server merge and infiltrator rework!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/306/801.jpg?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 17,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 17
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] The Archaeotech - Jan. Dev Letter - Site",
-      "subtypeArray": [
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2025-01-28 17:57:00",
-      "start_date_epoch": "1738115820",
-      "locale": "en_US",
-      "pageName": "jan-dev-letter-live-2025",
-      "title": "The Archaeotech - Jan. Dev Letter",
-      "summary": "<p>Learn more about the new Archaeotech update!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/305/101.jpg?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2025-02-24T19:18:00.000Z",
+        "isExternal": false,
+        "link": "/news/feb-dev-letter-2025",
+        "shareUrl": "https://www.planetside2.com/news/feb-dev-letter-2025",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/306/801.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] The Archaeotech - Jan. Dev Letter - Site",
+        "subtypeArray": [
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2025-01-28 17:57:00",
+        "start_date_epoch": "1738115820",
+        "locale": "en_US",
+        "pageName": "jan-dev-letter-live-2025",
+        "title": "The Archaeotech - Jan. Dev Letter",
+        "summary": "Learn more about the new Archaeotech update!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/305/101.jpg?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Introducing Assault Game Mode - Dec. Dev Letter",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2024-12-19 09:00:00",
-      "start_date_epoch": "1734627600",
-      "locale": "en_US",
-      "pageName": "dev-letter-dec-2024",
-      "title": "Introducing Assault Game Mode - Dec. Dev Letter",
-      "summary": "<p>Learn more about the new Assault Facility update and more!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/303/721.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2025-01-29T01:57:00.000Z",
+        "isExternal": false,
+        "link": "/news/jan-dev-letter-live-2025",
+        "shareUrl": "https://www.planetside2.com/news/jan-dev-letter-live-2025",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/305/101.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Introducing Assault Game Mode - Dec. Dev Letter",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2024-12-19 09:00:00",
+        "start_date_epoch": "1734627600",
+        "locale": "en_US",
+        "pageName": "dev-letter-dec-2024",
+        "title": "Introducing Assault Game Mode - Dec. Dev Letter",
+        "summary": "Learn more about the new Assault Facility update and more!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/303/721.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] 12th Anniversary and beyond! - Nov. Dev Letter",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2024-11-20 16:30:00",
-      "start_date_epoch": "1732149000",
-      "locale": "en_US",
-      "pageName": "dev-letter-nov-2024",
-      "title": "12th Anniversary and beyond! - Nov. Dev Letter",
-      "summary": "<p>Celebrate 12 years of PlanetSide 2 with Double XP and learn about new content coming soon!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/301/641.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 7,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 7
+        "className": "news",
+        "timestamp": "2024-12-19T17:00:00.000Z",
+        "isExternal": false,
+        "link": "/news/dev-letter-dec-2024",
+        "shareUrl": "https://www.planetside2.com/news/dev-letter-dec-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/303/721.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] 12th Anniversary and beyond! - Nov. Dev Letter",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2024-11-20 16:30:00",
+        "start_date_epoch": "1732149000",
+        "locale": "en_US",
+        "pageName": "dev-letter-nov-2024",
+        "title": "12th Anniversary and beyond! - Nov. Dev Letter",
+        "summary": "Celebrate 12 years of PlanetSide 2 with Double XP and learn about new content coming soon!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/301/641.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 7,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 7
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] The Cobalt and Miller Server Merge",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2024-10-28 14:03:00",
-      "start_date_epoch": "1730149380",
-      "locale": "en_US",
-      "pageName": "eu-server-merge-2024",
-      "title": "The Cobalt and Miller Server Merge",
-      "summary": "<p>That's right! We are merging both Cobalt and Miller servers this week! Learn more here.</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/299/981.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2024-11-21T00:30:00.000Z",
+        "isExternal": false,
+        "link": "/news/dev-letter-nov-2024",
+        "shareUrl": "https://www.planetside2.com/news/dev-letter-nov-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/301/641.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] The Cobalt and Miller Server Merge",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2024-10-28 14:03:00",
+        "start_date_epoch": "1730149380",
+        "locale": "en_US",
+        "pageName": "eu-server-merge-2024",
+        "title": "The Cobalt and Miller Server Merge",
+        "summary": "That&#x27;s right! We are merging both Cobalt and Miller servers this week! Learn more here.",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/299/981.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Dev Letter: Creating the new Extra Life cosmetic",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2024-09-25 15:11:00",
-      "start_date_epoch": "1727302260",
-      "locale": "en_US",
-      "pageName": "dev-letter-extra-life-2024",
-      "title": "Dev Letter: Creating the new Extra Life cosmetic",
-      "summary": "<p>Take a look at the creation process for the new Extra Life cosmetics!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/297/581.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 1,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 1
+        "className": "news",
+        "timestamp": "2024-10-28T21:03:00.000Z",
+        "isExternal": false,
+        "link": "/news/eu-server-merge-2024",
+        "shareUrl": "https://www.planetside2.com/news/eu-server-merge-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/299/981.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Dev Letter: Creating the new Extra Life cosmetic",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2024-09-25 15:11:00",
+        "start_date_epoch": "1727302260",
+        "locale": "en_US",
+        "pageName": "dev-letter-extra-life-2024",
+        "title": "Dev Letter: Creating the new Extra Life cosmetic",
+        "summary": "Take a look at the creation process for the new Extra Life cosmetics!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/297/581.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 1,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 1
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Dev Letter: Directives 2024",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2024-08-23 10:47:00",
-      "start_date_epoch": "1724435220",
-      "locale": "en_US",
-      "pageName": "dev-letter-directives-2024",
-      "title": "Dev Letter: Directives 2024",
-      "summary": "<p>Take a dive into the world of directive design. We also have another survey for you!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/295/061.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 1,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 1
+        "className": "news",
+        "timestamp": "2024-09-25T22:11:00.000Z",
+        "isExternal": false,
+        "link": "/news/dev-letter-extra-life-2024",
+        "shareUrl": "https://www.planetside2.com/news/dev-letter-extra-life-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/297/581.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Dev Letter: Directives 2024",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2024-08-23 10:47:00",
+        "start_date_epoch": "1724435220",
+        "locale": "en_US",
+        "pageName": "dev-letter-directives-2024",
+        "title": "Dev Letter: Directives 2024",
+        "summary": "Take a dive into the world of directive design. We also have another survey for you!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/295/061.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 1,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 1
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Audio Dev Letter Update: Your Feedback Matters!",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2024-08-09 12:40:00",
-      "start_date_epoch": "1723232400",
-      "locale": "en_US",
-      "pageName": "audio-letter-aug-2024",
-      "title": "Audio Dev Letter Update: Your Feedback Matters!",
-      "summary": "<p>Here's a follow up to our previous Audio Dev Letter!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/294/061.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2024-08-23T17:47:00.000Z",
+        "isExternal": false,
+        "link": "/news/dev-letter-directives-2024",
+        "shareUrl": "https://www.planetside2.com/news/dev-letter-directives-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/295/061.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Audio Dev Letter Update: Your Feedback Matters!",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2024-08-09 12:40:00",
+        "start_date_epoch": "1723232400",
+        "locale": "en_US",
+        "pageName": "audio-letter-aug-2024",
+        "title": "Audio Dev Letter Update: Your Feedback Matters!",
+        "summary": "Here&#x27;s a follow up to our previous Audio Dev Letter!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/294/061.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Extra Life fundraising event, 2024",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2024-07-25 14:34:00",
-      "start_date_epoch": "1721943240",
-      "locale": "en_US",
-      "pageName": "extra-life-2024",
-      "title": "PlanetSide 2 Extra Life fundraising event!",
-      "summary": "<p>Auraxians rally for Extra Life!</p>",
-      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/292/641.jpg?v=1.0",
-      "hide_poster_in_article": "false",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2024-08-09T19:40:00.000Z",
+        "isExternal": false,
+        "link": "/news/audio-letter-aug-2024",
+        "shareUrl": "https://www.planetside2.com/news/audio-letter-aug-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/294/061.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Extra Life fundraising event, 2024",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2024-07-25 14:34:00",
+        "start_date_epoch": "1721943240",
+        "locale": "en_US",
+        "pageName": "extra-life-2024",
+        "title": "PlanetSide 2 Extra Life fundraising event!",
+        "summary": "Auraxians rally for Extra Life!",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/292/641.jpg?v=1.0",
+        "hide_poster_in_article": "false",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Making Audio for PlanetSide 2",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2024-06-24 13:55:00",
-      "start_date_epoch": "1719262500",
-      "locale": "en_US",
-      "pageName": "audio-letter-jun-2024",
-      "title": "Making Audio for PlanetSide 2",
-      "summary": "<p>Get a behind the scenes look at the making of audio fixes and changes to the game!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/290/861.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2024-07-25T21:34:00.000Z",
+        "isExternal": false,
+        "link": "/news/extra-life-2024",
+        "shareUrl": "https://www.planetside2.com/news/extra-life-2024",
+        "shareType": "feed_news_item",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Making Audio for PlanetSide 2",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2024-06-24 13:55:00",
+        "start_date_epoch": "1719262500",
+        "locale": "en_US",
+        "pageName": "audio-letter-jun-2024",
+        "title": "Making Audio for PlanetSide 2",
+        "summary": "Get a behind the scenes look at the making of audio fixes and changes to the game!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/290/861.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] A Letter from Toadman Interactive",
-      "subtypeArray": [
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2024-04-15 13:54:00",
-      "start_date_epoch": "1713214440",
-      "locale": "en_US",
-      "pageName": "ps2-studio-update-2024",
-      "title": "A Letter from Toadman Interactive",
-      "summary": "<p>A New Horizon for PlanetSide 2</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/286/101.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2024-06-24T20:55:00.000Z",
+        "isExternal": false,
+        "link": "/news/audio-letter-jun-2024",
+        "shareUrl": "https://www.planetside2.com/news/audio-letter-jun-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/290/861.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] A Letter from Toadman Interactive",
+        "subtypeArray": [
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2024-04-15 13:54:00",
+        "start_date_epoch": "1713214440",
+        "locale": "en_US",
+        "pageName": "ps2-studio-update-2024",
+        "title": "A Letter from Toadman Interactive",
+        "summary": "A New Horizon for PlanetSide 2",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/286/101.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Development Update - March 2024",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2024-03-29 14:21:00",
-      "start_date_epoch": "1711747260",
-      "locale": "en_US",
-      "pageName": "dev-letter-mar-2024",
-      "title": "Development Update - March 2024",
-      "summary": "<p>NEW PTS Update, NEW Sunderer Update, a NEW Facility Type and more!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/284/761.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2024-04-15T20:54:00.000Z",
+        "isExternal": false,
+        "link": "/news/ps2-studio-update-2024",
+        "shareUrl": "https://www.planetside2.com/news/ps2-studio-update-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/286/101.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Development Update - March 2024",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2024-03-29 14:21:00",
+        "start_date_epoch": "1711747260",
+        "locale": "en_US",
+        "pageName": "dev-letter-mar-2024",
+        "title": "Development Update - March 2024",
+        "summary": "NEW PTS Update, NEW Sunderer Update, a NEW Facility Type and more!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/284/761.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Behind the Scenes: Making New Helmets - February 2024",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2024-02-23 16:31:00",
-      "start_date_epoch": "1708734660",
-      "locale": "en_US",
-      "pageName": "dev-letter-feb-2024",
-      "title": "Behind the Scenes: Making New Helmets  – February 2024",
-      "summary": "<p>Our team of artists gives you a sneak peek at the making of helmets in PlanetSide 2!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/281/981.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2024-03-29T21:21:00.000Z",
+        "isExternal": false,
+        "link": "/news/dev-letter-mar-2024",
+        "shareUrl": "https://www.planetside2.com/news/dev-letter-mar-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/284/761.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Behind the Scenes: Making New Helmets - February 2024",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2024-02-23 16:31:00",
+        "start_date_epoch": "1708734660",
+        "locale": "en_US",
+        "pageName": "dev-letter-feb-2024",
+        "title": "Behind the Scenes: Making New Helmets  – February 2024",
+        "summary": "Our team of artists gives you a sneak peek at the making of helmets in PlanetSide 2!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/281/981.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Development Update – January 2024",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2024-01-25 09:55:00",
-      "start_date_epoch": "1706205300",
-      "locale": "en_US",
-      "pageName": "dev-letter-jan-2024",
-      "title": "Development Update – January 2024",
-      "summary": "<p>Read our follow up to community concerns over the Sunderer rework and more!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/280/241.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 1,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 1
+        "className": "news",
+        "timestamp": "2024-02-24T00:31:00.000Z",
+        "isExternal": false,
+        "link": "/news/dev-letter-feb-2024",
+        "shareUrl": "https://www.planetside2.com/news/dev-letter-feb-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/281/981.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Development Update – January 2024",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2024-01-25 09:55:00",
+        "start_date_epoch": "1706205300",
+        "locale": "en_US",
+        "pageName": "dev-letter-jan-2024",
+        "title": "Development Update – January 2024",
+        "summary": "Read our follow up to community concerns over the Sunderer rework and more!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/280/241.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 1,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 1
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Development Update – December 2023",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2023-12-19 18:05:00",
-      "start_date_epoch": "1703037900",
-      "locale": "en_US",
-      "pageName": "dev-letter-dec-2023",
-      "title": "Development Update – December 2023",
-      "summary": "<p>New Sunderer Rework plans, playtest the upcoming CTC mode changes and more!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/278/721.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 9,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 9
+        "className": "news",
+        "timestamp": "2024-01-25T17:55:00.000Z",
+        "isExternal": false,
+        "link": "/news/dev-letter-jan-2024",
+        "shareUrl": "https://www.planetside2.com/news/dev-letter-jan-2024",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/280/241.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Development Update – December 2023",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2023-12-19 18:05:00",
+        "start_date_epoch": "1703037900",
+        "locale": "en_US",
+        "pageName": "dev-letter-dec-2023",
+        "title": "Development Update – December 2023",
+        "summary": "New Sunderer Rework plans, playtest the upcoming CTC mode changes and more!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/278/721.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 9,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 9
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Development Update – November 2023",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2023-11-13 10:27:00",
-      "start_date_epoch": "1699900020",
-      "locale": "en_US",
-      "pageName": "dev-letter-nov-2023",
-      "title": "Development Update – November 2023",
-      "summary": "<p><span class=\"TextRun SCXW186919076 BCX0\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW186919076 BCX0\">A new Season of Outfit Wars is here. We also have a Capture the Conduit update to share!</span></span><span class=\"EOP SCXW186919076 BCX0\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\"> </span></p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/276/481.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2023-12-20T02:05:00.000Z",
+        "isExternal": false,
+        "link": "/news/dev-letter-dec-2023",
+        "shareUrl": "https://www.planetside2.com/news/dev-letter-dec-2023",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/278/721.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Development Update – November 2023",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2023-11-13 10:27:00",
+        "start_date_epoch": "1699900020",
+        "locale": "en_US",
+        "pageName": "dev-letter-nov-2023",
+        "title": "Development Update – November 2023",
+        "summary": "A new Season of Outfit Wars is here. We also have a Capture the Conduit update to share! ",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/276/481.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Outfit Wars - Nexus Season 2",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2023-10-25 16:23:00",
-      "start_date_epoch": "1698276180",
-      "locale": "en_US",
-      "pageName": "outfit-wars-nexus-season-02",
-      "title": "Outfit Wars - Nexus Season 2",
-      "summary": "<p>Outfit Wars is back! Outfit Wars enlistment begins November 15. Learn more here!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/275/201.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2023-11-13T18:27:00.000Z",
+        "isExternal": false,
+        "link": "/news/dev-letter-nov-2023",
+        "shareUrl": "https://www.planetside2.com/news/dev-letter-nov-2023",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/276/481.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Outfit Wars - Nexus Season 2",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2023-10-25 16:23:00",
+        "start_date_epoch": "1698276180",
+        "locale": "en_US",
+        "pageName": "outfit-wars-nexus-season-02",
+        "title": "Outfit Wars - Nexus Season 2",
+        "summary": "Outfit Wars is back! Outfit Wars enlistment begins November 15. Learn more here!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/275/201.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Tides of Summer Event",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2023-07-05 17:47:00",
-      "start_date_epoch": "1688604420",
-      "locale": "en_US",
-      "pageName": "tides-of-summer",
-      "title": "Tides of Summer Event",
-      "summary": "<p>The Tides of Summer Event event runs from <strong>July 5</strong> to <strong>August 31</strong>. New Summer Directives, summer items and more!</p>",
-      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/268/021.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 3,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 3
+        "className": "news",
+        "timestamp": "2023-10-25T23:23:00.000Z",
+        "isExternal": false,
+        "link": "/news/outfit-wars-nexus-season-02",
+        "shareUrl": "https://www.planetside2.com/news/outfit-wars-nexus-season-02",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/275/201.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Tides of Summer Event",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2023-07-05 17:47:00",
+        "start_date_epoch": "1688604420",
+        "locale": "en_US",
+        "pageName": "tides-of-summer",
+        "title": "Tides of Summer Event",
+        "summary": "The Tides of Summer Event event runs from July 5 to August 31. New Summer Directives, summer items and more!",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/268/021.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 3,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 3
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Fortification Update",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2023-05-12 17:43:00",
-      "start_date_epoch": "1683938580",
-      "locale": "en_US",
-      "pageName": "fortification-update",
-      "title": "Fortification Update",
-      "summary": "<p>The new construction update is now \"Fortification\". Celebrate 20 years of PlanetSide with us!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/264/421.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2023-07-06T00:47:00.000Z",
+        "isExternal": false,
+        "link": "/news/tides-of-summer",
+        "shareUrl": "https://www.planetside2.com/news/tides-of-summer",
+        "shareType": "feed_news_item",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Fortification Update",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2023-05-12 17:43:00",
+        "start_date_epoch": "1683938580",
+        "locale": "en_US",
+        "pageName": "fortification-update",
+        "title": "Fortification Update",
+        "summary": "The new construction update is now &quot;Fortification&quot;. Celebrate 20 years of PlanetSide with us!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/264/421.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Introducing new TEQ",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2023-04-01 09:59:00",
-      "start_date_epoch": "1680368340",
-      "locale": "en_US",
-      "pageName": "introducing-new-teq",
-      "title": "Introducing new TEQ",
-      "summary": "<p>New Tandem Equipment will allow two players to use one weapon! Learn more inside!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/262/321.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2023-05-13T00:43:00.000Z",
+        "isExternal": false,
+        "link": "/news/fortification-update",
+        "shareUrl": "https://www.planetside2.com/news/fortification-update",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/264/421.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Introducing new TEQ",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2023-04-01 09:59:00",
+        "start_date_epoch": "1680368340",
+        "locale": "en_US",
+        "pageName": "introducing-new-teq",
+        "title": "Introducing new TEQ",
+        "summary": "New Tandem Equipment will allow two players to use one weapon! Learn more inside!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/262/321.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Update Under Construction",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2023-03-30 11:41:00",
-      "start_date_epoch": "1680201660",
-      "locale": "en_US",
-      "pageName": "update-under-construction",
-      "title": "Update Under Construction",
-      "summary": "<p>Take a deep dive into the latest news on the upcoming construction update with lead designer Wrel!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/262/201.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2023-04-01T16:59:00.000Z",
+        "isExternal": false,
+        "link": "/news/introducing-new-teq",
+        "shareUrl": "https://www.planetside2.com/news/introducing-new-teq",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/262/321.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Update Under Construction",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2023-03-30 11:41:00",
+        "start_date_epoch": "1680201660",
+        "locale": "en_US",
+        "pageName": "update-under-construction",
+        "title": "Update Under Construction",
+        "summary": "Take a deep dive into the latest news on the upcoming construction update with lead designer Wrel!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/262/201.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Construction in 2023",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2023-01-17 14:24:00",
-      "start_date_epoch": "1673994240",
-      "locale": "en_US",
-      "pageName": "construction-in-2023",
-      "title": "Construction in 2023",
-      "summary": "<p>Learn about upcoming changes to construction in PlanetSide 2 with today's Dev Letter.</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/258/281.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 8,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 8
+        "className": "news",
+        "timestamp": "2023-03-30T18:41:00.000Z",
+        "isExternal": false,
+        "link": "/news/update-under-construction",
+        "shareUrl": "https://www.planetside2.com/news/update-under-construction",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/262/201.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Construction in 2023",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2023-01-17 14:24:00",
+        "start_date_epoch": "1673994240",
+        "locale": "en_US",
+        "pageName": "construction-in-2023",
+        "title": "Construction in 2023",
+        "summary": "Learn about upcoming changes to construction in PlanetSide 2 with today&#x27;s Dev Letter.",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/258/281.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 8,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 8
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Amazon Prime Gaming",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-11-23 11:54:00",
-      "start_date_epoch": "1669233240",
-      "locale": "en_US",
-      "pageName": "amazon-prime-gaming",
-      "title": "Amazon Prime Gaming",
-      "summary": "<p>Equip your soldier with the NS-11A Frontline assault rifle and Gladiator helmet.</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/256/221.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2023-01-17T22:24:00.000Z",
+        "isExternal": false,
+        "link": "/news/construction-in-2023",
+        "shareUrl": "https://www.planetside2.com/news/construction-in-2023",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/258/281.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Amazon Prime Gaming",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-11-23 11:54:00",
+        "start_date_epoch": "1669233240",
+        "locale": "en_US",
+        "pageName": "amazon-prime-gaming",
+        "title": "Amazon Prime Gaming",
+        "summary": "Equip your soldier with the NS-11A Frontline assault rifle and Gladiator helmet.",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/256/221.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Ultimate Empire Showdown - Wintergaming Interview",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-11-19 10:00:00",
-      "start_date_epoch": "1668880800",
-      "locale": "en_US",
-      "pageName": "ues-wintergaming-interview",
-      "title": "Ultimate Empire Showdown - Wintergaming Interview",
-      "summary": "<p>Learn more about Wintergaming, captain of the Vanu Sovereignty in our 1on1 interview!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/601.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 2,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 2
+        "className": "news",
+        "timestamp": "2022-11-23T19:54:00.000Z",
+        "isExternal": false,
+        "link": "/news/amazon-prime-gaming",
+        "shareUrl": "https://www.planetside2.com/news/amazon-prime-gaming",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/256/221.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Ultimate Empire Showdown - Wintergaming Interview",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-11-19 10:00:00",
+        "start_date_epoch": "1668880800",
+        "locale": "en_US",
+        "pageName": "ues-wintergaming-interview",
+        "title": "Ultimate Empire Showdown - Wintergaming Interview",
+        "summary": "Learn more about Wintergaming, captain of the Vanu Sovereignty in our 1on1 interview!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/601.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 2,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 2
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Ultimate Empire Showdown - Commander Cyrious Interview",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-11-18 10:00:00",
-      "start_date_epoch": "1668794400",
-      "locale": "en_US",
-      "pageName": "ues-cmdrcyrious-interview",
-      "title": "Ultimate Empire Showdown - Commander Cyrious Interview",
-      "summary": "<p>Learn more about Commander Cyrious, captain of the Terran Republic in our 1on1 interview!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/581.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 8,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 8
+        "className": "news",
+        "timestamp": "2022-11-19T18:00:00.000Z",
+        "isExternal": false,
+        "link": "/news/ues-wintergaming-interview",
+        "shareUrl": "https://www.planetside2.com/news/ues-wintergaming-interview",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/601.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Ultimate Empire Showdown - Commander Cyrious Interview",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-11-18 10:00:00",
+        "start_date_epoch": "1668794400",
+        "locale": "en_US",
+        "pageName": "ues-cmdrcyrious-interview",
+        "title": "Ultimate Empire Showdown - Commander Cyrious Interview",
+        "summary": "Learn more about Commander Cyrious, captain of the Terran Republic in our 1on1 interview!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/581.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 8,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 8
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Ultimate Empire Showdown - Camikaze78 Interview",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-11-17 16:18:00",
-      "start_date_epoch": "1668730680",
-      "locale": "en_US",
-      "pageName": "ues-camikaze78-interview",
-      "title": "Ultimate Empire Showdown - Camikaze78 Interview",
-      "summary": "<p>Learn more about Camikaze78, captain of the New Conglomerate in our 1on1 interview!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/582.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-11-18T18:00:00.000Z",
+        "isExternal": false,
+        "link": "/news/ues-cmdrcyrious-interview",
+        "shareUrl": "https://www.planetside2.com/news/ues-cmdrcyrious-interview",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/581.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Ultimate Empire Showdown - Camikaze78 Interview",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-11-17 16:18:00",
+        "start_date_epoch": "1668730680",
+        "locale": "en_US",
+        "pageName": "ues-camikaze78-interview",
+        "title": "Ultimate Empire Showdown - Camikaze78 Interview",
+        "summary": "Learn more about Camikaze78, captain of the New Conglomerate in our 1on1 interview!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/582.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] SKL Community Spotlight",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-11-11 07:58:00",
-      "start_date_epoch": "1668182280",
-      "locale": "en_US",
-      "pageName": "skl-community-spotlight",
-      "title": "SKL Community Spotlight",
-      "summary": "<p>Today's spotlight is on SKL! Learn about their charity initiatives and learn more about running a prominent outfit in PS2!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/841.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-11-18T00:18:00.000Z",
+        "isExternal": false,
+        "link": "/news/ues-camikaze78-interview",
+        "shareUrl": "https://www.planetside2.com/news/ues-camikaze78-interview",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/582.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] SKL Community Spotlight",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-11-11 07:58:00",
+        "start_date_epoch": "1668182280",
+        "locale": "en_US",
+        "pageName": "skl-community-spotlight",
+        "title": "SKL Community Spotlight",
+        "summary": "Today&#x27;s spotlight is on SKL! Learn about their charity initiatives and learn more about running a prominent outfit in PS2!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/841.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Ultimate Empire Showdown 2022",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2022-11-10 17:51:00",
-      "start_date_epoch": "1668131460",
-      "locale": "en_US",
-      "pageName": "ultimate-empire-showdown-2022",
-      "title": "Ultimate Empire Showdown 2022",
-      "summary": "<p>Ultimate Empire Showdown begins November 20th @ 2pm pst / 11pm cet! Click for the full details!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/721.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-11-11T15:58:00.000Z",
+        "isExternal": false,
+        "link": "/news/skl-community-spotlight",
+        "shareUrl": "https://www.planetside2.com/news/skl-community-spotlight",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/841.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Ultimate Empire Showdown 2022",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2022-11-10 17:51:00",
+        "start_date_epoch": "1668131460",
+        "locale": "en_US",
+        "pageName": "ultimate-empire-showdown-2022",
+        "title": "Ultimate Empire Showdown 2022",
+        "summary": "Ultimate Empire Showdown begins November 20th @ 2pm pst / 11pm cet! Click for the full details!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/721.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Double XP For All - Anniversary Celebration",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-11-03 13:36:00",
-      "start_date_epoch": "1667507760",
-      "locale": "en_US",
-      "pageName": "double-xp-anniversary-celebration",
-      "title": "Double XP For All - Anniversary Celebration",
-      "summary": "<p>Double XP For All begins Nov. 4th, each weekend through Nov. 20th., learn more here!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/981.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-11-11T01:51:00.000Z",
+        "isExternal": false,
+        "link": "/news/ultimate-empire-showdown-2022",
+        "shareUrl": "https://www.planetside2.com/news/ultimate-empire-showdown-2022",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/255/721.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Double XP For All - Anniversary Celebration",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-11-03 13:36:00",
+        "start_date_epoch": "1667507760",
+        "locale": "en_US",
+        "pageName": "double-xp-anniversary-celebration",
+        "title": "Double XP For All - Anniversary Celebration",
+        "summary": "Double XP For All begins Nov. 4th, each weekend through Nov. 20th., learn more here!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/981.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Planting a Flag this Anniversary",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe-content"
-      ],
-      "start_date": "2022-11-01 17:08:00",
-      "start_date_epoch": "1667347680",
-      "locale": "en_US",
-      "pageName": "planting-a-flag-this-anniversary",
-      "title": "Planting a Flag this Anniversary",
-      "summary": "<p>NEW Capture the Conduit gameplay, Bastion Carrier changes and more!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/621.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-11-03T20:36:00.000Z",
+        "isExternal": false,
+        "link": "/news/double-xp-anniversary-celebration",
+        "shareUrl": "https://www.planetside2.com/news/double-xp-anniversary-celebration",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/981.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Planting a Flag this Anniversary",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe-content"
+        ],
+        "start_date": "2022-11-01 17:08:00",
+        "start_date_epoch": "1667347680",
+        "locale": "en_US",
+        "pageName": "planting-a-flag-this-anniversary",
+        "title": "Planting a Flag this Anniversary",
+        "summary": "NEW Capture the Conduit gameplay, Bastion Carrier changes and more!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/621.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] PS2 To break the world record on Nov. 5th",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe-content"
-      ],
-      "start_date": "2022-10-27 17:38:00",
-      "start_date_epoch": "1666917480",
-      "locale": "en_US",
-      "pageName": "world-record-breaking-pts-event",
-      "title": "PS2 To break the world record on Nov. 5th",
-      "summary": "<p>Can PS2 break 2015's Guinness World Record for \"most players in an online FPS battle\"?</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/501.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 25,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 25
+        "className": "news",
+        "timestamp": "2022-11-02T00:08:00.000Z",
+        "isExternal": false,
+        "link": "/news/planting-a-flag-this-anniversary",
+        "shareUrl": "https://www.planetside2.com/news/planting-a-flag-this-anniversary",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/621.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] PS2 To break the world record on Nov. 5th",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe-content"
+        ],
+        "start_date": "2022-10-27 17:38:00",
+        "start_date_epoch": "1666917480",
+        "locale": "en_US",
+        "pageName": "world-record-breaking-pts-event",
+        "title": "PS2 To break the world record on Nov. 5th",
+        "summary": "Can PS2 break 2015&#x27;s Guinness World Record for &quot;most players in an online FPS battle&quot;?",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/501.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 25,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 25
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Anniversary Inbound",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe-content"
-      ],
-      "start_date": "2022-10-25 14:24:00",
-      "start_date_epoch": "1666733040",
-      "locale": "en_US",
-      "pageName": "anniversary-inbound",
-      "title": "Anniversary Inbound",
-      "summary": "<p>Roadmap check-in, Post Outfit Wars learnings, graphical refresh and more!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/121.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-10-28T00:38:00.000Z",
+        "isExternal": false,
+        "link": "/news/world-record-breaking-pts-event",
+        "shareUrl": "https://www.planetside2.com/news/world-record-breaking-pts-event",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/501.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Anniversary Inbound",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe-content"
+        ],
+        "start_date": "2022-10-25 14:24:00",
+        "start_date_epoch": "1666733040",
+        "locale": "en_US",
+        "pageName": "anniversary-inbound",
+        "title": "Anniversary Inbound",
+        "summary": "Roadmap check-in, Post Outfit Wars learnings, graphical refresh and more!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/121.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Extra Life fundraising event, 2022",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-10-14 09:00:00",
-      "start_date_epoch": "1665763200",
-      "locale": "en_US",
-      "pageName": "extra-life-2022",
-      "title": "Extra Life fundraising event!",
-      "summary": "<p>Rogue Planet Games rallies for Extra Life!</p>",
-      "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/253/481.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 27,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 27
+        "className": "news",
+        "timestamp": "2022-10-25T21:24:00.000Z",
+        "isExternal": false,
+        "link": "/news/anniversary-inbound",
+        "shareUrl": "https://www.planetside2.com/news/anniversary-inbound",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/254/121.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Extra Life fundraising event, 2022",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-10-14 09:00:00",
+        "start_date_epoch": "1665763200",
+        "locale": "en_US",
+        "pageName": "extra-life-2022",
+        "title": "Extra Life fundraising event!",
+        "summary": "Rogue Planet Games rallies for Extra Life!",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/253/481.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 27,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 27
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Nanite of the Living Dead, Halloween 2022",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-10-03 16:35:00",
-      "start_date_epoch": "1664840100",
-      "locale": "en_US",
-      "pageName": "halloween-2022",
-      "title": "Nanite of the Living Dead, Halloween 2022",
-      "summary": "<p>Chills and ghoulish delights await you in sanctuary this Halloween! Spooky SpacePumpkins are back!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/252/741.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 1,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 1
+        "className": "news",
+        "timestamp": "2022-10-14T16:00:00.000Z",
+        "isExternal": false,
+        "link": "/news/extra-life-2022",
+        "shareUrl": "https://www.planetside2.com/news/extra-life-2022",
+        "shareType": "feed_news_item",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Nanite of the Living Dead, Halloween 2022",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-10-03 16:35:00",
+        "start_date_epoch": "1664840100",
+        "locale": "en_US",
+        "pageName": "halloween-2022",
+        "title": "Nanite of the Living Dead, Halloween 2022",
+        "summary": "Chills and ghoulish delights await you in sanctuary this Halloween! Spooky SpacePumpkins are back!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/252/741.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 1,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 1
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Stepping through September",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-09-06 16:50:00",
-      "start_date_epoch": "1662508200",
-      "locale": "en_US",
-      "pageName": "september-dev-letter",
-      "title": "Stepping through September",
-      "summary": "<p>Learn more about September's goals and recent learnings in our new Dev Letter update!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/251/021.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-10-03T23:35:00.000Z",
+        "isExternal": false,
+        "link": "/news/halloween-2022",
+        "shareUrl": "https://www.planetside2.com/news/halloween-2022",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/252/741.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Stepping through September",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-09-06 16:50:00",
+        "start_date_epoch": "1662508200",
+        "locale": "en_US",
+        "pageName": "september-dev-letter",
+        "title": "Stepping through September",
+        "summary": "Learn more about September&#x27;s goals and recent learnings in our new Dev Letter update!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/251/021.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Nexus Preview, this weekend!",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2022-08-25 18:13:00",
-      "start_date_epoch": "1661476380",
-      "locale": "en_US",
-      "pageName": "nexus-preview",
-      "title": "Nexus Preview, this weekend!",
-      "summary": "<p>This weekend we'll be hosting a new test experience for everyone. Play the Nexus battle island before match time!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/248/261.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-09-06T23:50:00.000Z",
+        "isExternal": false,
+        "link": "/news/september-dev-letter",
+        "shareUrl": "https://www.planetside2.com/news/september-dev-letter",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/251/021.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Nexus Preview, this weekend!",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2022-08-25 18:13:00",
+        "start_date_epoch": "1661476380",
+        "locale": "en_US",
+        "pageName": "nexus-preview",
+        "title": "Nexus Preview, this weekend!",
+        "summary": "This weekend we&#x27;ll be hosting a new test experience for everyone. Play the Nexus battle island before match time!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/248/261.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] End of Summer Sales begin Aug. 22nd",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-08-18 15:17:00",
-      "start_date_epoch": "1660861020",
-      "locale": "en_US",
-      "pageName": "end-of-summer-sales-2022",
-      "title": "End of Summer Sales begin Aug. 22nd.",
-      "summary": "<p>Enjoy the final days of summer with our End of Summer Sales. Learn more here!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/250/281.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-08-26T01:13:00.000Z",
+        "isExternal": false,
+        "link": "/news/nexus-preview",
+        "shareUrl": "https://www.planetside2.com/news/nexus-preview",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/248/261.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] End of Summer Sales begin Aug. 22nd",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-08-18 15:17:00",
+        "start_date_epoch": "1660861020",
+        "locale": "en_US",
+        "pageName": "end-of-summer-sales-2022",
+        "title": "End of Summer Sales begin Aug. 22nd.",
+        "summary": "Enjoy the final days of summer with our End of Summer Sales. Learn more here!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/250/281.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Outfit Wars Enlistment Extended/First Match Delayed",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2"
-      ],
-      "start_date": "2022-08-15 14:59:00",
-      "start_date_epoch": "1660600740",
-      "locale": "en_US",
-      "pageName": "outfit-wars-match-delayed",
-      "title": "Outfit Wars Enlistment Extended/First Match Delayed",
-      "summary": "<p>1st Match of Outfit Wars has been rescheduled. Check the full schedule here.</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/249/521.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-08-18T22:17:00.000Z",
+        "isExternal": false,
+        "link": "/news/end-of-summer-sales-2022",
+        "shareUrl": "https://www.planetside2.com/news/end-of-summer-sales-2022",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/250/281.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Outfit Wars Enlistment Extended/First Match Delayed",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2"
+        ],
+        "start_date": "2022-08-15 14:59:00",
+        "start_date_epoch": "1660600740",
+        "locale": "en_US",
+        "pageName": "outfit-wars-match-delayed",
+        "title": "Outfit Wars Enlistment Extended/First Match Delayed",
+        "summary": "1st Match of Outfit Wars has been rescheduled. Check the full schedule here.",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/249/521.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] The Late Shift lands PlanetSide",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe"
-      ],
-      "start_date": "2022-07-28 15:41:00",
-      "start_date_epoch": "1659048060",
-      "locale": "en_US",
-      "pageName": "late-shift-lands-planetside",
-      "title": "The Late Shift lands PlanetSide",
-      "summary": "<p>This weekend, The Late Shift stream team dusts off their uniforms and heads PlanetSide.</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/249/421.png?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 1,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 1
+        "className": "news",
+        "timestamp": "2022-08-15T21:59:00.000Z",
+        "isExternal": false,
+        "link": "/news/outfit-wars-match-delayed",
+        "shareUrl": "https://www.planetside2.com/news/outfit-wars-match-delayed",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/249/521.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] The Late Shift lands PlanetSide",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2022-07-28 15:41:00",
+        "start_date_epoch": "1659048060",
+        "locale": "en_US",
+        "pageName": "late-shift-lands-planetside",
+        "title": "The Late Shift lands PlanetSide",
+        "summary": "This weekend, The Late Shift stream team dusts off their uniforms and heads PlanetSide.",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/249/421.png?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 1,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 1
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
-      }
-    },
-    {
-      "name": "[PS2] Outfit Wars - Nexus Season 01",
-      "subtypeArray": [
-        "lp4-news",
-        "ps2",
-        "soe",
-        "soe-content"
-      ],
-      "start_date": "2022-07-27 18:05:00",
-      "start_date_epoch": "1658970300",
-      "locale": "en_US",
-      "pageName": "outfit-wars-nexus-season-01",
-      "title": "Outfit Wars - Nexus Season 01",
-      "summary": "<p>Outfit Wars enlistment begins August 3rd. Learn more about this year's Outfit Wars event here!</p>",
-      "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/249/261.jpg?v=1.0",
-      "hide_poster_in_article": "true",
-      "shareCounts": {
-        "Reddit": null,
-        "Facebook": {
-          "total_count": 0,
-          "og_object": null,
-          "comment_count": 0,
-          "share_count": 0
+        "className": "news",
+        "timestamp": "2022-07-28T22:41:00.000Z",
+        "isExternal": false,
+        "link": "/news/late-shift-lands-planetside",
+        "shareUrl": "https://www.planetside2.com/news/late-shift-lands-planetside",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/249/421.png?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Outfit Wars - Nexus Season 01",
+        "subtypeArray": [
+          "lp4-news",
+          "ps2",
+          "soe",
+          "soe-content"
+        ],
+        "start_date": "2022-07-27 18:05:00",
+        "start_date_epoch": "1658970300",
+        "locale": "en_US",
+        "pageName": "outfit-wars-nexus-season-01",
+        "title": "Outfit Wars - Nexus Season 01",
+        "summary": "Outfit Wars enlistment begins August 3rd. Learn more about this year&#x27;s Outfit Wars event here!",
+        "thumbnail": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/249/261.jpg?v=1.0",
+        "hide_poster_in_article": "true",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 0,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 0
+          },
+          "Pinterest": 0
         },
-        "Pinterest": 0
+        "className": "news",
+        "timestamp": "2022-07-28T01:05:00.000Z",
+        "isExternal": false,
+        "link": "/news/outfit-wars-nexus-season-01",
+        "shareUrl": "https://www.planetside2.com/news/outfit-wars-nexus-season-01",
+        "shareType": "feed_news_item",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/249/261.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": true,
+        "type": "news",
+        "priority": 0
       }
-    }
-  ]
+    ]
+  },
+  "externals": {
+    "list": [
+      {
+        "name": "Rock Paper Shotgun PS2 Construction",
+        "subtypeArray": [
+          "linkout",
+          "ps2"
+        ],
+        "start_date": "2016-04-29 16:39:00",
+        "start_date_epoch": "1461973140",
+        "locale": "en_US",
+        "pageName": "1461973323922",
+        "title": "[Link] Rock Paper Shotgun: Goin' Up! PS2 Adds Base-Building",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/111/781.jpg?v=1.0",
+        "image": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/111/781.jpg?v=1.0",
+        "link": "https://www.rockpapershotgun.com/2016/04/29/goin-up-planetside-2-adds-base-building/",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 173,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 173
+          },
+          "Pinterest": 0
+        },
+        "className": "news",
+        "timestamp": "2016-04-29T23:39:00.000Z",
+        "isExternal": true,
+        "shareUrl": "https://www.rockpapershotgun.com/2016/04/29/goin-up-planetside-2-adds-base-building/",
+        "shareType": "feed_linkout_item",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/111/781.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] IGN Review: Escape from Noob Island",
+        "subtypeArray": [
+          "linkout",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2015-06-30 10:17:00",
+        "start_date_epoch": "1435684620",
+        "locale": "en_US",
+        "pageName": "1435684659826",
+        "title": "IGN Review: Escape from Noob Island",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/090/701.jpg?v=1.0",
+        "image": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/090/701.jpg?v=1.0",
+        "link": "http://www.ign.com/articles/2015/06/27/planetside-2-ps4-review",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 88,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 88
+          },
+          "Pinterest": 0
+        },
+        "className": "news",
+        "timestamp": "2015-06-30T17:17:00.000Z",
+        "isExternal": true,
+        "shareUrl": "http://www.ign.com/articles/2015/06/27/planetside-2-ps4-review",
+        "shareType": "feed_linkout_item",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/090/701.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      },
+      {
+        "name": "[PS2] Massively Overpowered - PS2 on PS4 Launches",
+        "subtypeArray": [
+          "linkout",
+          "ps2",
+          "soe"
+        ],
+        "start_date": "2015-06-26 10:57:00",
+        "start_date_epoch": "1435341420",
+        "locale": "en_US",
+        "pageName": "1435341535168",
+        "title": "Massively Overpowered - PS2 on PS4 Launches",
+        "thumb": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/090/681.jpg?v=1.0",
+        "image": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/090/681.jpg?v=1.0",
+        "link": "http://massivelyop.com/2015/06/23/e3-2015-planetside-2-launches-on-ps4-today-with-a-better-build-than-beta/",
+        "shareCounts": {
+          "Reddit": null,
+          "Facebook": {
+            "total_count": 8,
+            "og_object": null,
+            "comment_count": 0,
+            "share_count": 8
+          },
+          "Pinterest": 5
+        },
+        "className": "news",
+        "timestamp": "2015-06-26T17:57:00.000Z",
+        "isExternal": true,
+        "shareUrl": "http://massivelyop.com/2015/06/23/e3-2015-planetside-2-launches-on-ps4-today-with-a-better-build-than-beta/",
+        "shareType": "feed_linkout_item",
+        "poster": "https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/090/681.jpg?v=1.0",
+        "defaultImage": "https://www-cdn.planetside2.com/images/components/feed/news/default.jpg?v=234349729",
+        "isDgcContent": false,
+        "type": "news",
+        "priority": 0
+      }
+    ]
+  }
 }
